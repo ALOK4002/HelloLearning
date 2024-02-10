@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kUXDcCNXbIihVsT5WqfHU0ENMZlqbxpa/2IAh6S7NoYYapTMgr/DwSCfClA8XtVh/FWhnLsYT/0KZmI4top3aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alok_\\Source\\Repos\\HelloLearning\\FirstWebApp\\FirstWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alok_\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
